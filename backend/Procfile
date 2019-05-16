@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT clip_and_co_3446.wsgi:application

@@ -1,0 +1,3 @@
+rootProject.name = 'clip_and_co_3446'
+
+include ':app'
